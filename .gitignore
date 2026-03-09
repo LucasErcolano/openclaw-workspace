@@ -1,0 +1,57 @@
+# Directorio con proyecto externo que contiene archivos con secretos
+inbound_repo/
+
+# Archivos sensibles y con credenciales
+.env
+*.pem
+*.key
+*.crt
+secrets/
+credentials/
+
+# Logs y datos de ejecución
+*.log
+*.txt
+data/
+logs/
+runtime/
+temp/
+tmp/
+
+# Archivos de caché y del sistema
+__pycache__/
+*.pyc
+venv/
+.venv/
+node_modules/
+.DS_Store
+
+# Archivos de configuración local que pueden contener paths específicos
+config.local.json
+local-config.yml
+
+# Backups y archivos temporales
+backup/
+*.backup
+*.bak
+*.zip
+*.tar
+*.gz
+
+# Archivos de desarrollo
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Directorios de prueba
+test-results/
+coverage/
+
+# Archivos de estado y locks (se regeneran)
+locks/
+state.json
+status.json
+
+# Directorio .git (nunca subirlo)
+.git/

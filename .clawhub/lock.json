@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "skills": {
+    "himalaya": {
+      "version": "1.0.0",
+      "installedAt": 1772556951115
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772556952690
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772556953721
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1772556955430
+    },
+    "clawddocs": {
+      "version": "1.2.2",
+      "installedAt": 1772556957087
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1772556958123
+    },
+    "free-ride": {
+      "version": "1.0.4",
+      "installedAt": 1773065660129
+    },
+    "freeride": {
+      "version": "0.1.0",
+      "installedAt": 1773065508987
+    }
+  }
+}

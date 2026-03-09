@@ -1,0 +1,29 @@
+{
+  "pending": {
+    "info@h5k5leakdetection.com::1442": {
+      "created_at": 1773072811,
+      "updated_at": 1773072829,
+      "account_user": "info@h5k5leakdetection.com",
+      "email_id": "1442",
+      "status": "awaiting_feedback",
+      "sender": "info@alfainstrumentos.com",
+      "subject": "Consulta de Prueba Fugas",
+      "reviewer_id": "whatsapp:+5493489590036",
+      "review_lock_key": "whatsapp:+18144859184|whatsapp:+5493489590036",
+      "language": "es"
+    },
+    "info@alfainstrumentos.com::76314": {
+      "created_at": 1773072874,
+      "updated_at": 1773072911,
+      "account_user": "info@alfainstrumentos.com",
+      "email_id": "76314",
+      "status": "awaiting_feedback",
+      "sender": "interborders@interborders.com",
+      "subject": "¿Cuándo llega tu carga?",
+      "reviewer_id": "whatsapp:+5493489590036",
+      "review_lock_key": "whatsapp:+447380843002|whatsapp:+5493489590036",
+      "language": "es"
+    }
+  },
+  "updated_at": 1773072911
+}
