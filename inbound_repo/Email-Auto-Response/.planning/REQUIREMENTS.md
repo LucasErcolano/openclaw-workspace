@@ -53,15 +53,15 @@ Which phases cover which requirements. Updated during roadmap creation.
 | CORE-05 | Phase 1 | Complete |
 | CORE-06 | Phase 1 | Complete |
 | CORE-07 | Phase 1 | Complete |
-| MSG-01 | Pending | Pending |
-| MSG-02 | Pending | Pending |
-| MSG-03 | Pending | Pending |
+| MSG-01 | Phase 2 | Pending |
+| MSG-02 | Phase 2 | Pending |
+| MSG-03 | Phase 2 | Pending |
 
 **Coverage:**
 - v1 requirements: 10 total
-- Mapped to phases: 7
-- Unmapped: 3 ⚠️
+- Mapped to phases: 10
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-03-10*
-*Last updated: 2026-03-10 after initialization*
+*Last updated: 2026-03-10 after roadmap creation*
